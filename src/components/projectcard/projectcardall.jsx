@@ -103,7 +103,7 @@ function Projectcardall() {
       <div style={styles.projectContainer} className="row">
         <a style={styles.projectCard} href="#">
           <Projectcard
-            src="./public/img/projectimg4.png"
+            src="/img/projectimg4.png"
             titles="Portfolio"
             details="Fully responsive portfolio website with animation in React.js"
           />
@@ -116,7 +116,7 @@ function Projectcardall() {
           rel="noopener noreferrer"
         >
           <Projectcard
-            src="./public/img/projectimg01.png"
+            src="/img/projectimg01.png"
             titles="Puzzle Game"
             details="Drag and drop puzzle game with timer using HTML, CSS, and JavaScript"
           />
@@ -129,7 +129,7 @@ function Projectcardall() {
           rel="noopener noreferrer"
         >
           <Projectcard
-            src="./public/img/projectimg02.png"
+            src="/img/projectimg02.png"
             titles="PhonePe Clone"
             details="Fully functional PhonePe clone using HTML, CSS, and JavaScript"
           />
@@ -142,7 +142,7 @@ function Projectcardall() {
           rel="noopener noreferrer"
         >
           <Projectcard
-            src="./public/img/projectimg03.png"
+            src="/img/projectimg03.png"
             titles="Employee Management App"
             details="Employee management app using React.js with CRUD operations"
           />
@@ -155,7 +155,7 @@ function Projectcardall() {
           rel="noopener noreferrer"
         >
           <Projectcard
-            src="./public/img/projectimg05.png"
+            src="/img/projectimg05.png"
             titles="E-Commerce"
             details="Fully responsive e-commerce website with API, search filter, and payment gateway"
           />

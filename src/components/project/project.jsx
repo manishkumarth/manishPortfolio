@@ -71,7 +71,7 @@ function Project() {
 
           <a href="https://puzzleggames.vercel.app/" target="_blank" style={styles.projectLink}>
             <Projectcard
-              src="public/img/projectimg01.png"
+              src="/img/projectimg01.png"
               titles="Puzzle Game"
               details="Drag and drop puzzle game with timer using HTML, CSS, and JavaScript"
             />
@@ -79,7 +79,7 @@ function Project() {
 
           <a href="https://ecommerce-one-psi-70.vercel.app/" target="_blank" style={styles.projectLink}>
             <Projectcard
-              src="public/img/projectimg04.png"
+              src="/img/projectimg04.png"
               titles="E-commerce"
               details="Fully responsive e-commerce website with payment gateway using React.js"
             />
@@ -87,7 +87,7 @@ function Project() {
 
           <a href="https://phonepay02.vercel.app/" target="_blank" style={styles.projectLink}>
             <Projectcard
-              src="public/img/projectimg02.png"
+              src="/img/projectimg02.png"
               titles="PhonePe Clone"
               details="Fully functional PhonePe clone using HTML, CSS, and JavaScript"
             />
@@ -95,7 +95,7 @@ function Project() {
 
           <a href="https://employee-management-app-8xz1.vercel.app/" target="_blank" style={styles.projectLink}>
             <Projectcard
-              src="public/img/projectimg03.png"
+              src="/img/projectimg03.png"
               titles="Employee Management App"
               details="React.js app with CRUD operations to assign and manage employees"
             />
@@ -103,7 +103,7 @@ function Project() {
 
           <a href="https://ecommerce-one-psi-70.vercel.app/" target="_blank" style={styles.projectLink}>
             <Projectcard
-              src="public/img/projectimg05.png"
+              src="/img/projectimg05.png"
               titles="E-commerce"
               details="Fully responsive e-commerce website with API search, filter, and payment gateway"
             />
