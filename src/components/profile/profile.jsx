@@ -124,7 +124,7 @@ function Profile() {
             }}
           >
             <img
-              src="./public/img/profileimg01-modified.png"
+              src="/img/profileimg01-modified.png"
               alt="Profile"
               style={{ width: "100%", height: "100%", objectFit: "cover" }}
             />
